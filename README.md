@@ -1,4 +1,4 @@
-# Hi, I'm Fadil 👋
+# Hi, I'm idkwhoami 👋
 
 ### Cybersecurity | Security Automation | Scripting
 
